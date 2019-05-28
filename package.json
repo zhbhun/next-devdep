@@ -1,6 +1,6 @@
 {
   "name": "next-devdep",
-  "version": "7.0.3",
+  "version": "7.0.3-beta.1",
   "description": "",
   "main": "index.js",
   "scripts": {
